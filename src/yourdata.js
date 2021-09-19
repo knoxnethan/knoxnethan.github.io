@@ -85,15 +85,11 @@ export default {
   aboutParaTwo:
     "In my free time, I enjoy participating in Salesforce Community groups to learn and support others seeking to leverage Salesforce to improve productivity and efficiency for their organizations! I am also a member of a Salesforce Professional Development Program to fully understand the Salesforce Ecosystem and network to build valuable relationships in the Salesforce space..",
   aboutParaThree:
-    "Outside ..",
+    "Outside of my passion for Salesforce I enjoy spending time with family and playing basketball. I love to read and reflect on my day. I love trying new things and stepping out of my comfort. I’m a very out-going person and love to converse with people of all kinds.",
   aboutImage:
     "https://personalknoxnethan.s3.us-east-2.amazonaws.com/Optimized-IMG_3012.jpeg",
 
-  //   End About Section ---------------------
 
-  // Skills Section ---------------
-
-  //   Import Icons from the top and link it here
 
   skills: [
     {
@@ -128,14 +124,7 @@ export default {
     },
   ],
 
-  // End Skills Section --------------------------
-
-  //   Promotion Section --------------------------
-
  
-  // End Promotion Section -----------------
-
-  //   Contact Section --------------
 
   contactSubHeading: "Let's work together",
   social: [
@@ -152,7 +141,6 @@ export default {
     
   ],
 
-  // End Contact Section ---------------
 }
 
-// Thanks for using this template, I would love to hear from you contact me at hello@chetanverma.com
+
