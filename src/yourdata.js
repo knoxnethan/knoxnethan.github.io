@@ -85,7 +85,7 @@ export default {
   aboutParaTwo:
     "In my free time, I enjoy participating in Salesforce Community groups to learn and support others seeking to leverage Salesforce to improve productivity and efficiency for their organizations! I am also a member of a Salesforce Professional Development Program to fully understand the Salesforce Ecosystem and network to build valuable relationships in the Salesforce space..",
   aboutParaThree:
-    "Outside of my passion for Salesforce I enjoy spending time empowering folks with financial literacy, exploring hole-in-the-wall restaurants (best food spots!), and reading non-fiction books..",
+    "Outside ..",
   aboutImage:
     "https://personalknoxnethan.s3.us-east-2.amazonaws.com/Optimized-IMG_3012.jpeg",
 
