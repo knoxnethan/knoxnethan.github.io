@@ -52,7 +52,7 @@ export default {
       imageSrc:
         "https://images.unsplash.com/photo-1523474253046-8cd2748b5fd2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
       //Project URL - Add Your Project Url Here
-      url: "https://personalknoxnethan.s3.us-east-2.amazonaws.com/Knoxnethanresume.docx+(7).pdf",
+      url: "https://personalknoxnethan.s3.us-east-2.amazonaws.com/Knoxnethanresume.docx+(8).pdf",
     },
     {
       title: "Salesforce portfolio experience", //Project Title - Add Your Project Title Here
