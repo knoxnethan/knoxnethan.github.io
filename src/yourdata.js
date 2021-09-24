@@ -43,6 +43,16 @@ export default {
   // End Header Details -----------------------
 
   // Work Section ------------------------
+  
+    aboutParaOne:
+    "I am a Salesforce Certified Administrator with a passion for efficiency and creating systems that solve complex business problems. Having spent 3 years working in a non-profit environment, I have a strong ability to understand data, learn multi-tiered processes and identify needs based on an organization’s operations.",
+  aboutParaTwo:
+    "In my free time, I enjoy participating in Salesforce Community groups to learn and support others seeking to leverage Salesforce to improve productivity and efficiency for their organizations! I am also a member of a Salesforce Professional Development Program to fully understand the Salesforce Ecosystem and network to build valuable relationships in the Salesforce space..",
+  aboutParaThree:
+    "Outside of my passion for Salesforce I enjoy spending time with family and playing basketball. I love to read and reflect on my day. I love trying new things and stepping out of my comfort. I’m a very out-going person and love to converse with people of all kinds.",
+  aboutImage:
+    "https://personalknoxnethan.s3.us-east-2.amazonaws.com/Optimized-IMG_3012.jpeg",
+
   projects: [
     {
       title: "AWS static website Resume", //Project Title - Add Your Project Title Here
@@ -79,15 +89,7 @@ export default {
 
   // End Work Section -----------------------
 
-  // About Secton --------------
-  aboutParaOne:
-    "I am a Salesforce Certified Administrator with a passion for efficiency and creating systems that solve complex business problems. Having spent 3 years working in a non-profit environment, I have a strong ability to understand data, learn multi-tiered processes and identify needs based on an organization’s operations.",
-  aboutParaTwo:
-    "In my free time, I enjoy participating in Salesforce Community groups to learn and support others seeking to leverage Salesforce to improve productivity and efficiency for their organizations! I am also a member of a Salesforce Professional Development Program to fully understand the Salesforce Ecosystem and network to build valuable relationships in the Salesforce space..",
-  aboutParaThree:
-    "Outside of my passion for Salesforce I enjoy spending time with family and playing basketball. I love to read and reflect on my day. I love trying new things and stepping out of my comfort. I’m a very out-going person and love to converse with people of all kinds.",
-  aboutImage:
-    "https://personalknoxnethan.s3.us-east-2.amazonaws.com/Optimized-IMG_3012.jpeg",
+
 
 
 
