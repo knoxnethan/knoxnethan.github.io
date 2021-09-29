@@ -40,6 +40,9 @@ export default {
 
   //Contact Email
   contactEmail: "knox.soto1205@gmail.com",
+  <a href="https://react.school" target="_blank">
+  <Button> Link Button </Button>
+</a>
 
   // End Header Details -----------------------
 
