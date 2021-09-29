@@ -18,6 +18,7 @@ import dribbbleIcon from "./images/dribbble.svg"
 import instagramIcon from "./images/instagram.svg"
 import youtubeIcon from "./images/youtube.svg"
 import linkedinIcon from "./images/linkedin.svg"
+import laptopIcon from "./images/laptop.svg"
 
 export default {
   //(Please Do Not Remove The comma(,) after every variable)
@@ -138,6 +139,11 @@ export default {
     },
     {
       img: linkedinIcon,
+      url: "https://www.linkedin.com/in/knox-nethan-aviles/",
+    },
+    
+     {
+      img: laptopIcon,
       url: "https://www.linkedin.com/in/knox-nethan-aviles/",
     },
     
