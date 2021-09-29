@@ -76,6 +76,16 @@ export default {
       url: "https://knoxnethan-developer-edition.na162.force.com/s/",
     },
 
+      {
+      title: "Gallery of my Daily Life", //Project Title - Add Your Project Title Here
+      para:
+        "Instead of using social media, I decide to display photos I take in my personal gallery page. You can view photos of what I'm interested in.", // Add Your Service Type Here
+      //Project Image - Add Your Project Image Here
+      imageSrc:
+        "https://images.unsplash.com/photo-1495707902641-75cac588d2e9?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80",
+      //Project URL - Add Your Project Url Here
+      url: "https://personalknoxnethan.s3.us-east-2.amazonaws.com/Knoxnethanresume.docx+(8).pdf",
+    },
 
     /*
     If You Want To Add More Project just Copy and Paste This At The End
