@@ -114,7 +114,7 @@ export default {
     {
       img: salesforceIcon,
       para:
-        "Certified Salesforce administrator: strong in creating,protecting, and automating business processes. I continune to learn everyday through trailhead and keeping up to date with the latest updates.",
+        "Certified Salesforce administrator: Business Processes. Automating Business Processes. Data management. LifeCycle. Reports and Dashboard. Flows.",
     },
     {
       img: mysqlIcon,
