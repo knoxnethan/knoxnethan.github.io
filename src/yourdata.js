@@ -85,7 +85,7 @@ export default {
       imageSrc:
         "https://images.unsplash.com/photo-1495707902641-75cac588d2e9?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80",
       //Project URL - Add Your Project Url Here
-      url: "https://personalknoxnethan.s3.us-east-2.amazonaws.com/Knoxnethanresume.docx+(8).pdf",
+      url: "https://vsco.co/knoxnethan",
     },
 
     /*
