@@ -155,7 +155,7 @@ export default {
     
      {
       img: laptopIcon,
-      url: "https://www.linkedin.com/in/knox-nethan-aviles/",
+      url: "https://vsco.co/knoxnethan/gallery",
     },
     
   ],
