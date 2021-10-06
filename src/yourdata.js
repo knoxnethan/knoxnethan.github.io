@@ -101,7 +101,8 @@ export default {
 
   // End Work Section -----------------------
 
-
+ <script src="https://apps.elfsight.com/p/platform.js" defer></script>
+<div class="elfsight-app-51f6369f-3b6e-4883-90bd-9c8b94a451fc"></div>
 
   skills: [
     {
