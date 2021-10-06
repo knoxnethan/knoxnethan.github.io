@@ -47,7 +47,7 @@ export default {
   // Work Section ------------------------
   
     aboutParaOne:
-    "I am a Salesforce Certified Administrator with a passion for efficiency and creating systems that solve complex business problems. Having spent 3 years working in a non-profit environment, I have a strong ability to understand data, learn multi-tiered processes and identify needs based on an organization’s operations.",
+    "I am a Salesforce Certified Administrator with a passion for efficiency and creating systems that solve complex business problems. Having spent 4 years working in a Information Technology environment, I have a strong ability to understand data, learn multi-tiered processes and identify needs based on an organization’s operations.",
   aboutParaTwo:
     "In my free time, I enjoy participating in Salesforce Community groups to learn and support others seeking to leverage Salesforce to improve productivity and efficiency for their organizations! I am also a member of a Salesforce Professional Development Program to fully understand the Salesforce Ecosystem and network to build valuable relationships in the Salesforce space..",
   aboutParaThree:
